@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["main","Main function varaible CommandLineArgs this var takes in user input from the commandline. the user is asked to input the journal(json file) name and the action(add, done, and list). variabele"]],"mod":[["cli",""],["tasks",""]]};

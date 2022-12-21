@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["rust_todo"] = [{"text":"impl <a class=\"trait\" href=\"structopt/trait.StructOpt.html\" title=\"trait structopt::StructOpt\">StructOpt</a> for <a class=\"enum\" href=\"rust_todo/cli/enum.Action.html\" title=\"enum rust_todo::cli::Action\">Action</a>","synthetic":false,"types":["rust_todo::cli::Action"]},{"text":"impl <a class=\"trait\" href=\"structopt/trait.StructOpt.html\" title=\"trait structopt::StructOpt\">StructOpt</a> for <a class=\"struct\" href=\"rust_todo/cli/struct.CommandLineArgs.html\" title=\"struct rust_todo::cli::CommandLineArgs\">CommandLineArgs</a>","synthetic":false,"types":["rust_todo::cli::CommandLineArgs"]}];
+implementors["structopt"] = [];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
