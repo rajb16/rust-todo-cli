@@ -61,8 +61,6 @@ Source :
 * https://learn.microsoft.com/en-us/training/modules/rust-create-command-line-program/9-use-default-journal
 
 YouTube Links:
-* Explanation of the code: https://www.youtube.com/watch?v=Y5iMPeWFbgo 
-
 * Time-lapse of me writing the code: https://youtu.be/xb1iGH9Q9WU
 ```
 
