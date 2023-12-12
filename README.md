@@ -6,7 +6,7 @@ rust-todo is a Rust Command line To-Do list application
 The repository can be downloaded from the link below.
 
 ```bash
-https://github.com/vcxzzxcvn/rust-todo-cli.git
+[https://github.com/vcxzzxcvn/rust-todo-cli](https://github.com/rajb16/rust-todo-cli).git
 ```
 
 ## Usage
